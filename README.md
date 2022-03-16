@@ -1,2 +1,2 @@
 # Numerical-Computation
-Numerical Methods for solving problems and Modeling Mathematical Components
+Numerical Methods for solving problems
