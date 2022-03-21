@@ -12,7 +12,7 @@
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/function.png">
 
 ###### Bisection Method:
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph1.png" style=" width:60px ; height:60px "  >
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph1.png" style=" width:120px ; height:120px "  >
 
 ###### Fixed Point iteration:
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph2.png" style=" width:60px ; height:60px "  >
