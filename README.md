@@ -15,7 +15,7 @@
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph1.png">
 
 ###### Fixed Point iteration:
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph2.png" style=" width:60px ; height:60px "  >
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph2.png">
 
 ### Lab-3
 
