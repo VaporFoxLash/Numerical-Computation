@@ -5,7 +5,11 @@
 
 
 ## Lab-1
+##### Convergence of a series.
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/doc/s1.png">
 
+* Improve convergence of the series using following:
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/doc/s2.png">
 
 ### Lab-2
 ##### Root finding methods.
@@ -18,6 +22,8 @@
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab2/doc/graph2.png">
 
 ### Lab-3
+##### System of linear equations
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab3/doc/eqs.png">
 
 ## Technologies
 * Python
