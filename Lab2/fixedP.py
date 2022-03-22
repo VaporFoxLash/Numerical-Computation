@@ -14,20 +14,6 @@ def g(x):
 	return pow(np.arcsin(x), 2)
 
 
-# def fixed(x, a=0.74, b=0.8, tol=0.5e-5, N=100):
-#     i = 1
-#     while i <= N:
-#         p = g(x)
-#         #    print(f(p) < tol)
-
-#         if np.abs(p-x) < tol and f(p) >= tol:
-#             print(p)
-#             print(f(p) > tol)
-#             break
-#         i += 1
-#         c = p
-
-
 def fixedPointIteration(x0, tol, N=100):
 	# Iterate on the function g(x) N times until the root is found,
 	# where Xn+1 = g(Xn), the function f(x) and g(x) intersect at point f(root)
