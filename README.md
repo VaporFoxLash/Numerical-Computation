@@ -9,7 +9,7 @@
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/docs/s1.png">
 
 * Improve convergence of the series using following:
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/doc/s2.png">
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/docs/s2.png">
 
 ### Lab-2
 ##### Root finding methods.
@@ -23,7 +23,7 @@
 
 ### Lab-3
 ##### System of linear equations
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab3/doc/eqs.png">
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab3/docs/eqs.png">
 
 ## Technologies
 * Python
