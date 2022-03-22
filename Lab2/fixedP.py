@@ -10,10 +10,25 @@ def f(x):
 
 # Function x = g(x), to iterate on
 def g(x):
+	# return np.arcsin(x) - np.sqrt(x) + x
 	return pow(np.arcsin(x), 2)
 
 
-def fixedPointIteration(x0, tol, N):
+# def fixed(x, a=0.74, b=0.8, tol=0.5e-5, N=100):
+#     i = 1
+#     while i <= N:
+#         p = g(x)
+#         #    print(f(p) < tol)
+
+#         if np.abs(p-x) < tol and f(p) >= tol:
+#             print(p)
+#             print(f(p) > tol)
+#             break
+#         i += 1
+#         c = p
+
+
+def fixedPointIteration(x0, tol, N=100):
 	# Iterate on the function g(x) N times until the root is found,
 	# where Xn+1 = g(Xn), the function f(x) and g(x) intersect at point f(root)
 	i = 1
@@ -31,7 +46,7 @@ def fixedPointIteration(x0, tol, N):
 			flag=0
 			break
 
-		condition = abs(f(x_1)) > tol
+		condition = abs(f(x_1)) < tol
 
 	if flag==1:
 	    print('\nRoot found')
@@ -41,15 +56,16 @@ def fixedPointIteration(x0, tol, N):
 
 
 def main():
-	x0 = 0.74
+	a = 0.74
+	b = 0.8
+	x0 = (a+b) / 2
 	tol = 0.5e-5
-	N = 100
 
-	root = fixedPointIteration(x0, tol, N)
-	print('Root =', format(root, '3g'))
-	print('f(root) = ', format(f(root), '3g'))
-	print('g(root) = ', format(g(root), '3g'))
-	
+	root = fixedPointIteration(float(x0), tol)
+	print('Root =', root)
+	# print('f(root) = ', f(root))
+	# print('g(root) = ', format(g(root), '3g'))
+
 
 
 if __name__ == '__main__':
