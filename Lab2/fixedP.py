@@ -49,8 +49,8 @@ def main():
 
 	root = fixedPointIteration(float(x0), tol)
 	print('Root =', root)
-	# print('f(root) = ', f(root))
-	# print('g(root) = ', format(g(root), '3g'))
+	print('f(root) = ', f(root))
+	print('g(root) = ', format(g(root), '3g'))
 
 
 
