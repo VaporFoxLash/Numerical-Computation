@@ -23,7 +23,7 @@
 
 ### Lab-3
 ##### System of linear equations
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab3/docs/eqs.png">
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab3/doc/eqs.png">
 
 ## Technologies
 * Python
