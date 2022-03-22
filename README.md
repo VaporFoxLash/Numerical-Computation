@@ -6,7 +6,7 @@
 
 ## Lab-1
 ##### Convergence of a series.
-<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/doc/s1.png">
+<img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/docs/s1.png">
 
 * Improve convergence of the series using following:
 <img src="https://github.com/VaporFoxLash/Numerical-Computation/blob/main/Lab1/doc/s2.png">
